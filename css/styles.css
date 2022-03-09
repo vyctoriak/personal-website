@@ -65,6 +65,7 @@ p {
   position: absolute;
   right: 300px;
   top: 40px;
+  width: 100px;
 }
 .profile {
   margin-top: 20px;
@@ -92,6 +93,11 @@ p {
   position: absolute;
   left: 250px;
   bottom: 300px;
+  width: 100px;
+}
+.bottom-image {
+  width: 600px;
+  height: 325px;
 }
 .bottom-container {
   background-color: #66BFBF;
